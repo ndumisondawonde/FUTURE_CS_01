@@ -2,18 +2,13 @@
 
 **Intern:** Ndumiso Ndawonde  
 **CIN:** FIT/MAR26/CS7022  
-**Track:** Cyber Security  
-**Task:** Vulnerability Assessment for a Live Website  
+**Status:** Completed
 
-## Target Website
-`https://testphp.vulnweb.com`
+## Deliverable
+[Download Report](./Vulnerability_Assessment_Report_Ndumiso_Ndawonde.pdf)
 
 ## Tools Used
-- Nmap
-- OWASP ZAP (passive scan)
+- OWASP ZAP
 
-## Report
-[Report link will be added here]
-
-## Status
-🟢 In progress
+## Submission Date
+April 6, 2026
